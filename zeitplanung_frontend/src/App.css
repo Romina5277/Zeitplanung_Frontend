@@ -7,8 +7,9 @@
 }
 
 .App-header {
+    margin-left: 6vh;
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -19,4 +20,9 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.content {
+  margin-left: 7vh;
+  margin-right: 1vh;
 }
